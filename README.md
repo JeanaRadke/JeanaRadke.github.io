@@ -5,7 +5,7 @@ Project Website
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Jeanas knowledge repository </title>
+        <title>Project: Jeana's knowledge repository </title>
     </head>
     <style>
         h1 {
